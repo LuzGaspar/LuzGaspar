@@ -1,0 +1,3 @@
+- 👋 Hola, soy Luz Gaspar
+- 👀 Estoy interesada en aprender programación web
+- 🌱 Actualmente estoy aprendiendo Javascript
